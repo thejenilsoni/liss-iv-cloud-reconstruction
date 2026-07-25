@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+node_modules
+**/node_modules
+**/.next
+data
+checkpoints
+artifacts
+__pycache__
+*.pyc
+*.pt
+*.pth
+*.tif
+*.tiff
+

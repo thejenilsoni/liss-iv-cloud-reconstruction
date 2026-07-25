@@ -1,0 +1,39 @@
+# JavaScript
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Models and datasets
+data/raw/
+data/processed/
+checkpoints/
+artifacts/
+*.pt
+*.pth
+*.ckpt
+*.tif
+*.tiff
+
+# Environment and system
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
